@@ -1,0 +1,18 @@
+form{
+    text-align: center;
+    background-color: aquamarine;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 5%;
+}
+#Submit{
+    padding:10px;
+}
+input[type=button]{
+    background-color: darkgray;
+}
+input[type=button]:hover{
+    background-color: pink;
+}
